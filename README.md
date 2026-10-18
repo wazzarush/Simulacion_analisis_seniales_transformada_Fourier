@@ -24,6 +24,9 @@ El archivo [`fourier_senales.py`](fourier_senales.py) está organizado en seccio
 pip install -r requirements.txt
 ```
 
+```powershell
+python -m pip install -r requirements.txt
+```
 ## Ejecución
 
 ```bash
@@ -71,4 +74,4 @@ fourier-senales/
 
 ## Autor
 
-Abigail Ramos
+- Abigail Ramos
